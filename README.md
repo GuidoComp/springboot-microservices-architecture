@@ -24,7 +24,7 @@ Este proyecto agrupa varios microservicios desarrollados como parte del curso av
 ## 🚀 Características técnicas destacadas
 
 - Arquitectura basada en Spring Cloud
-- Spring Boot 3 con Java 17
+- Spring Boot 3.3 con Java 21
 - Comunicación entre microservicios via REST
 - Configuración centralizada con perfiles por entorno
 - Registro y descubrimiento con Eureka
