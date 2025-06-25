@@ -4,7 +4,7 @@ Spring Cloud microservices
 
 Este proyecto agrupa varios microservicios desarrollados como parte del curso avanzado de microservicios. Cada servicio se encuentra en un repositorio independiente y se enfoca en diferentes aspectos de la arquitectura distribuida con Spring Cloud.
 
-⚠️ Por limitaciones de la capa gratuita de AWS EC2, el archivo `docker-compose.yml` incluye solo tres microservicios (gateway, eureka, config-server). El resto está implementado y documentado, pero no incluido en la orquestación completa.
+⚠️ Por limitaciones de la capa gratuita de AWS EC2, el archivo `docker-compose.yml` incluye solo tres microservicios (items, eureka, products). El resto está implementado y documentado, pero no incluido en la orquestación completa.
 
 ## 🔧 Microservicios implementados
 
